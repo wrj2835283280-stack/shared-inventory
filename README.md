@@ -4,6 +4,8 @@ Minecraft Forge 模组：同一个存档里，所有玩家的 **36 格主背包�
 
 支持版本：
 
+下载：[GitHub Releases](https://github.com/wrj2835283280-stack/shared-inventory/releases/tag/v1.0.0)
+
 | Minecraft | Forge | 下载 |
 | --- | --- | --- |
 | 26.2 | 65.1.5 | `sharedinventory-1.0.0-mc26.2.jar` |
