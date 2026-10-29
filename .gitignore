@@ -1,0 +1,16 @@
+.gradle/
+build/
+run/
+run-data/
+out/
+*.log
+.idea/
+.eclipse/
+*.iml
+.jdk/
+.gradle-dist/
+.sources/
+.build263/
+forge-*-mdk.zip
+.jdk8.zip
+test/

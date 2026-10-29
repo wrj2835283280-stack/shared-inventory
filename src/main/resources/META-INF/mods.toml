@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[65,)"
+license="MIT"
+
+[[mods]]
+modId="sharedinventory"
+version="1.0.0"
+displayName="共享背包 (Shared Inventory)"
+authors="大肥鱼"
+description='''同一存档内所有玩家共用 36 格主背包（快捷栏 + 背包）。
+
+只共享主背包，不共享盔甲、副手、末影箱和合成格。
+玩家死亡时不会掉落共享背包里的物品。
+共享数据保存在存档根目录的 sharedinventory.dat 中。'''
+
+[[dependencies.sharedinventory]]
+    modId="forge"
+    mandatory=true
+    versionRange="[65,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.sharedinventory]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[26.2,26.3)"
+    ordering="NONE"
+    side="BOTH"
